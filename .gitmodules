@@ -1,0 +1,6 @@
+[submodule "HelloRN"]
+	path = HelloRN
+	url = https://github.com/hyewon6588/react-native-essential-training.git
+[submodule "react-native-essential-training"]
+	path = react-native-essential-training
+	url = https://github.com/hyewon6588/react-native-essential-training.git
